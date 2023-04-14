@@ -1,3 +1,7 @@
+a.forceplainlink {
+	text-decoration: none !important;
+}
+
 @keyframes ultimateReward {
 	0%, 81.31%, 100% {
 		color:#a10000;
